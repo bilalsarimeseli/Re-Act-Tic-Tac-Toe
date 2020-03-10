@@ -143,6 +143,19 @@ ul {
 }
 .status {
   margin-bottom: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  color: rgba(148, 56, 14, 0.863);
+  font-family: fantasy;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+}
+
+.moves {
+  color: #0d9b19;
+  font-size: large;
+  margin-left: auto;
 }
 
 .game-board {

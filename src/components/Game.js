@@ -68,7 +68,7 @@ export default class Game extends Component {
                 </div>
                 <div className="game-info">
                     <div className="status">{status}</div>
-                    <ul>{moves}</ul>
+                    <ul className="moves">{moves}</ul>
                 </div>
 
             </div>
