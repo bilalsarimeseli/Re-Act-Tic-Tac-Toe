@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/css/main.49d99dbd.chunk.css",
-    "main.js": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/js/main.157048ad.chunk.js",
-    "main.js.map": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/js/main.157048ad.chunk.js.map",
-    "runtime~main.js": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/js/runtime~main.bf0dff0c.js",
-    "runtime~main.js.map": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/js/runtime~main.bf0dff0c.js.map",
-    "static/js/2.d793e4b2.chunk.js": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/js/2.d793e4b2.chunk.js",
-    "static/js/2.d793e4b2.chunk.js.map": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/js/2.d793e4b2.chunk.js.map",
-    "index.html": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/index.html",
-    "precache-manifest.ae6fc0773a6f773f70e81785b0c10eb5.js": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/precache-manifest.ae6fc0773a6f773f70e81785b0c10eb5.js",
-    "service-worker.js": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/service-worker.js",
-    "static/css/main.49d99dbd.chunk.css.map": "/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git/static/css/main.49d99dbd.chunk.css.map"
+    "main.css": "/static/css/main.49d99dbd.chunk.css",
+    "main.js": "/static/js/main.959a5e1b.chunk.js",
+    "main.js.map": "/static/js/main.959a5e1b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d793e4b2.chunk.js": "/static/js/2.d793e4b2.chunk.js",
+    "static/js/2.d793e4b2.chunk.js.map": "/static/js/2.d793e4b2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eeb5eafee78f3b60798b0e3f54e054f9.js": "/precache-manifest.eeb5eafee78f3b60798b0e3f54e054f9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.49d99dbd.chunk.css.map": "/static/css/main.49d99dbd.chunk.css.map"
   }
 }
