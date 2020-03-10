@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe",
   "version": "0.1.0",
-  "homepage": "https://github.com/bilalsarimeseli/Re-Act-Tic-Tac-Toe.git",
+  "homepage":"https://bilalsarimeseli.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
