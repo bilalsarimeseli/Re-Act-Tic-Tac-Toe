@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe",
   "version": "0.1.0",
-  "homepage":"https://bilalsarimeseli.github.io",
+  "homepage": "https://bilalsarimeseli.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
@@ -12,7 +12,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
